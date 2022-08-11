@@ -18,17 +18,44 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Zee Fryer
+title: Home
 email: fryer.zee@gmail.com
-description: A convenient central location for all things Zee.
+description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "zeefryer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  zeefryer
 
 # Build settings
-theme: minima
-plugins:
-  - jekyll-feed
+# theme: "minima"
+remote_theme: eliottvincent/bay
+
+# header_pages:
+#   - about.markdown
+#   - publications.markdown
+#   - math-research.markdown
+
+header:
+  pages:
+    - name: "About"
+      slug: /about/
+    - name: "Publications"
+      slug: /publications/
+    - name: "Math Research"
+      slug: /math-research/
+
+footer:
+  show_powered_by: true
+  contact:
+    - name: Email
+      value: fryer.zee@gmail.com
+      link: mailto:fryer.zee@gmail.com
+  follow:
+    - name: GitHub
+      link: http://github.com/zeefryer
+
+# plugins:
+#   - jekyll-feed
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
