@@ -11,7 +11,6 @@ profile_picture:
 
 # Zee Fryer
 
-## tl;dr
 
 I'm a mathematician-turned-ML-practicioner based in the Bay Area. I'm interested in AI fairness and applications of machine learning for social good.
 

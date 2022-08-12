@@ -27,7 +27,7 @@ github_username:  zeefryer
 
 # Build settings
 # theme: "minima"
-remote_theme: eliottvincent/bay
+remote_theme: zeefryer/jekyll_bay
 
 # header_pages:
 #   - about.markdown
