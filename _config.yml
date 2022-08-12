@@ -55,7 +55,6 @@ footer:
 
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
 
 
 # Exclude from processing.
