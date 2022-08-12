@@ -53,8 +53,9 @@ footer:
     - name: GitHub
       link: http://github.com/zeefryer
 
-# plugins:
-#   - jekyll-feed
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
 
 
 # Exclude from processing.
