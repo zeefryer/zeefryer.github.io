@@ -14,9 +14,9 @@ You can find my academic CV [here](/files/CV2019.pdf), and a list of publication
 Below I've tried to give a very quick lay intro to some of my resesarch areas and potential applications to machine learning. There's also links to some old math outreach work I did when I was in grad school, and some more technical writings (including my PhD thesis) for anyone interested.
 
 
-# Background
+## Background
 
-## Algebra
+### **Algebra**
 
 In math, algebra is the study of _mathematical structures_: given a few basic axioms (e.g. existence of addition and multiplication rules, and rules for how they interact), what can we say about the properties of any structure satisfying these axioms? Or, given an example of a structure (say, the set of all 2x2 real matrices, with standard addition and multiplication), what rules can we expect it to follow or not follow? 
 
@@ -28,7 +28,7 @@ For example, there have been a few really interesting attempts to impose various
 
 I'd love to see (and to work on!) more research in this direction; the extra structure imposed by requiring a multiplication rule on a vector space could be the link we're missing in understanding how various machine learning models actually work.
 
-## Totally nonnegative matrices
+### **Totally nonnegative matrices**
 
 Totally nonnegative (TNN) real matrices are a really cool class of matrix: they're real matrices with the property that any [minor](https://en.wikipedia.org/wiki/Minor_(linear_algebra)) (that is, the determinant of any square submatrix) is nonnegative. One particularly nice thing about this is that they're much more concrete to explain and to think about than abstract algebraic structures are: you should be able to come up with some 2x2 examples yourself without too much effort!
 
@@ -38,13 +38,13 @@ I've yet to see an application of TNN matrices to machine learning (as opposed t
 
 
 
-# Links for interested non-mathematicians
+## Links for interested non-mathematicians
 
 Here are some math outreach things I've created or been involved in; they're aimed at mathematically-inclined people but don't require any specialist knowledge. 
 - [Poster](/files/poster_SET_low_res.pdf) explaining my PhD work on division rings. This reached the final of the [STEM for Britain](http://www.stemforbritain.org.uk) poster competition in 2015.
 - [Matt Parker's Domino Computer](https://www.youtube.com/watch?v=OpLU__bhu2w), chronicling the efforts of a group of nerds (myself included) to build a 5-bit binary adder out of dominos.
 
-# Further reading for mathematicians or math-adjacent people
+## Further reading for mathematicians or math-adjacent people
 
 The following documents go into more detail about my research, and are listed in roughly increasing order of specialisation.
 

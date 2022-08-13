@@ -2,15 +2,17 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-layout: home
-title: Zee Fryer
+layout: default
+title: Home
 profile_picture:
   src: /imgs/stumpy.jpg
   alt: Image of a plush stegosaur holding a carboard sign with "Fryer" written on it.
 ---
 
-# Zee Fryer
+![Image of a plush stegosaur holding a carboard sign with "Fryer" written on it.](/imgs/stumpy.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;margin-left:30px; margin-bottom:30px;"}
 
+
+# Zee Fryer
 
 I'm a mathematician-turned-ML-practicioner based in the Bay Area. I'm interested in AI fairness and applications of machine learning for social good.
 

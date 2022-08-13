@@ -18,7 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Home
+title: Zee Fryer
+author: Email
+home_name: Home
+name: Email
 email: fryer.zee@gmail.com
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,22 +29,23 @@ url: "zeefryer.github.io" # the base hostname & protocol for your site, e.g. htt
 github_username:  zeefryer
 
 # Build settings
-# theme: "minima"
-remote_theme: eliottvincent/bay
+theme: "minima"
+# remote_theme: pages-themes/tactile@v0.2.0
 
-# header_pages:
-#   - about.markdown
-#   - publications.markdown
-#   - math-research.markdown
+header_pages:
+  - index.markdown
+  - about.markdown
+  - publications.markdown
+  - math-research.markdown
 
-header:
-  pages:
-    - name: "About"
-      slug: /about/
-    - name: "Publications"
-      slug: /publications/
-    - name: "Math Research"
-      slug: /math-research/
+# header:
+#   pages:
+#     - name: "About"
+#       slug: /about/
+#     - name: "Publications"
+#       slug: /publications/
+#     - name: "Math Research"
+#       slug: /math-research/
 
 footer:
   show_powered_by: true
@@ -55,7 +59,7 @@ footer:
 
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+#   - jekyll-remote-theme
 
 # Exclude from processing.
 # The following items will not be processed, by default.
