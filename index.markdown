@@ -4,9 +4,6 @@
 
 layout: default
 title: Home
-profile_picture:
-  src: /imgs/stumpy.jpg
-  alt: Image of a plush stegosaur holding a carboard sign with "Fryer" written on it.
 ---
 
 ![Image of a plush stegosaur holding a carboard sign with "Fryer" written on it.](/imgs/stumpy.jpg){:style="float: right;margin-right: 7px;margin-top: 7px;margin-left:30px; margin-bottom:30px;"}
@@ -16,7 +13,7 @@ profile_picture:
 
 I'm a mathematician-turned-ML-practicioner based in the Bay Area. I'm interested in AI fairness and applications of machine learning for social good.
 
-In my free time I do long-distance running and aerial silks, try to teach my Roomba new tricks, and cater to the whims of my two demanding but very perfect cats.
+In my free time I do aerial silks and long-distance running, try to teach my Roomba to do SLAM (simultaneous location and mapping), and cater to the whims of my two demanding but very perfect cats.
 
 ## Quick Links
 
