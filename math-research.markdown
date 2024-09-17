@@ -6,7 +6,7 @@ permalink: /math-research/
 
 # Math research
 
-My main math research interests are in noncommutative algebra and algebraic combinatorics, in particular quantized coordinate rings / quantum algebras and their semi-classical limits, and total nonnegativity in real matrices and the real Grassmannian. I've also co-authored several papers on applications of total nonnegativity in mathematical physics, specifically Wilson loop diagrams in quantum field theory.
+My main math research interests are in noncommutative algebra and algebraic combinatorics, in particular quantized coordinate rings / quantum algebras and their semi-classical limits, and also total nonnegativity in real matrices and the real Grassmannian. I've also co-authored several papers on applications of total nonnegativity in mathematical physics, specifically Wilson loop diagrams in quantum field theory.
 
 
 You can find my academic CV [here](/files/CV2019.pdf), and a list of publications on the [Publications page](/publications/).
